@@ -1,0 +1,4 @@
+网页爬虫: scrapy（不太清楚）
+数据挖掘: numpy, scipy, matplotlib, pandas（头三个是业界标准，第四个模拟R）
+机器学习: scikit-learn, libsvm（极好）
+自然语言处理: nltk（极好）
